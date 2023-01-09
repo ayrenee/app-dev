@@ -18,4 +18,4 @@ My first repository
 - Roberto Ruiz as Oslo
 
 [Money Heist](https://www.netflix.com/title/80192098)
-![La Casa de Papel]([https://i2-prod.belfastlive.co.uk/incoming/article19192080.ece/ALTERNATES/s1200/2_AAAABTkZuZ7z-xQqWl6RTvgXCRTSh_GOBS4Dl14DfGlly3zXc8dwXz67QiDcassgyOF5B-QD3bXuC9f0GKFUS5w-p8VzEYiEKEqybcnZiDiiCriOnMVzje.jpg](https://netflixjunkie.com/wp-content/uploads/2021/12/Money-Heist-1140x600.jpeg))
+![La Casa de Papel](https://i2-prod.belfastlive.co.uk/incoming/article19192080.ece/ALTERNATES/s615/2_AAAABTkZuZ7z-xQqWl6RTvgXCRTSh_GOBS4Dl14DfGlly3zXc8dwXz67QiDcassgyOF5B-QD3bXuC9f0GKFUS5w-p8VzEYiEKEqybcnZiDiiCriOnMVzje.jpg)
